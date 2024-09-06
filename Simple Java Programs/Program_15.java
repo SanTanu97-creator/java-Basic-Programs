@@ -9,6 +9,7 @@ public class Program_15 {
         int num = sc.nextInt();
         Program_15 obj = new Program_15();
         obj.MultiTable(num, 1); // Start the table from 1
+        sc.close();
     }
 
     void MultiTable(int num, int i) {

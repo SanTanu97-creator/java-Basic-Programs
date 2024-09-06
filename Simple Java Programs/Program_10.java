@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Program_10 {
 
     public static void main(String args[]) {
-        int n, m, a, i = 1, counter = 0;
+        int n, m, a, counter = 0;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter any number:");
         n = s.nextInt();
